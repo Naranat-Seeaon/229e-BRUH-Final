@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Destructible
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -55,6 +57,9 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 2827968627
+    locked: 0
+  - name: waLL
+    uniqueID: 3321866331
     locked: 0
   m_RenderingLayers:
   - Default
