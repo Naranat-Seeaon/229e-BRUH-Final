@@ -281,8 +281,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Thanakit Panin 1670700952 \nWannachai Muengngam 1670701612                                   
-    Naranat Seeaon 1660705896                          \nAsset\nNature_pixel_art_assets                                                        
+  m_Text: "UI/UX :\nThanakit Panin 1670700952 No.10\nCode :\nWannachai Muengngam
+    1670701612 No.13                         \nLevel Design :\nNaranat Seeaon 1660705896
+    No.2                         \nAsset\nNature_pixel_art_assets                                                        
     Pixel Adventure 1                                                                   
     Ai                                                                                     
     Gemini "
@@ -995,8 +996,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -197, y: 125.66}
-  m_SizeDelta: {x: 255.74, y: 180.93}
+  m_AnchoredPosition: {x: -195.11, y: 93.497}
+  m_SizeDelta: {x: 258.4614, y: 227.24}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258636981
 MonoBehaviour:
@@ -1567,7 +1568,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -125, y: 308}
+  m_AnchoredPosition: {x: -125, y: 374}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2139615946
