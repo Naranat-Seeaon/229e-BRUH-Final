@@ -245,8 +245,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -186.86, y: 38.803314}
-  m_SizeDelta: {x: 241.1476, y: 206.2524}
+  m_AnchoredPosition: {x: -165.1256, y: 38.803314}
+  m_SizeDelta: {x: 272.4426, y: 206.2524}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &717814731
 MonoBehaviour:
@@ -283,9 +283,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "UI/UX :\nThanakit Panin 1670700952 No.10\nCode :\nWannachai Muengngam
     1670701612 No.13                         \nLevel Design :\nNaranat Seeaon 1660705896
-    No.2                         \nAsset\nNature_pixel_art_assets                                                        
+    No.2                         \nAsset :\nNature_pixel_art_assets                                                        
     Pixel Adventure 1                                                                   
-    Ai                                                                                     
+    Ai :                                                                                     
     Gemini "
 --- !u!222 &717814732
 CanvasRenderer:
@@ -996,8 +996,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -195.11, y: 93.497}
-  m_SizeDelta: {x: 258.4614, y: 227.24}
+  m_AnchoredPosition: {x: -166.76076, y: 71.76251}
+  m_SizeDelta: {x: 299.281, y: 250.3711}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258636981
 MonoBehaviour:
